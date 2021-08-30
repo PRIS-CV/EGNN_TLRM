@@ -34,7 +34,7 @@ $ python3 eval.py --test_model D-mini_N-5_K-1_U-0_L-3_B-40_T-True
 
 Thanks for your attention!
 
-Our code is based on Kim's contribution. Specifically, except for our core design ATTENTION-BASED TASK-LEVEL RELATION MODULE, everything else （e.g. backbone, dataset, EGNN, evaluation standards, hyper-parameters）are built on and integrated in https://github.com/khy0809/fewshot-egnn.
+Our code is based on Kim's contribution. Specifically, except for our core design Task-level Relation Module, everything else （e.g. backbone, dataset, EGNN, evaluation standards, hyper-parameters）are built on and integrated in https://github.com/khy0809/fewshot-egnn.
 
 If you have any suggestion or question, you can leave a message here or contact us directly:
 
