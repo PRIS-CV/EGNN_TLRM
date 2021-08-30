@@ -1,4 +1,4 @@
-Code release for the paper: "TLRM: Task-level Relation Module for GNN-based Few-Shot Learning" (VCIP 2021)
+Code release for the paper: "TLRM: Task-level Relation Module for GNN-based Few-Shot Learning" (IEEE VCIP 2021)
 
 
 ### Platform
